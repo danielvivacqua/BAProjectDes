@@ -94,6 +94,9 @@ Be sure the user can continue making selections from the menu until all desired 
 ## Stretch Tasks
 Right now this program is designed for one user. Giving the ability to enter a user name when the program begins would make the program useful for multiple users. At this point do not worry about trying to add passwords. That is outside of the scope of what we know at this point. Letting the users log in with only their names _is_ less secure, but we're focused on functionality right now.
 
+Find a way for the Client object and the Account objects to interact!
+Hint: Don't forget we can pass objects as parameters too. Think about passing a client object to the account classes in order to log in. Be creative!
+
 ## Hints
 Persistence is not required. Meaning each time you run the program all of the values can reset.
 
